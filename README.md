@@ -1,2 +1,2 @@
-# eduaratol.github.io
+# Personal Page
 Repository for my personal page.
